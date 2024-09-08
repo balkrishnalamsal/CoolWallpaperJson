@@ -1,9 +1,6 @@
 {
     "Cool Wallpapers": [
        
-      
-        
-       
         {"image":"https://wallpapercave.com/wp/wp10819394.jpg"},
         
         {"image":"https://wallpapercave.com/dwp2x/wp10819394.jpg"},
@@ -509,10 +506,7 @@
         {"image":"https://wallpapercave.com/mwp/wp2551807.jpg"}
         
     ],
-    "Desktop Cool Wallpapers": [
-        
-      
-        
+    "Desktop Cool Wallpapers": [ 
         {"image":"https://wallpapercave.com/mwp/wp2551821.jpg"},
         
         {"image":"https://wallpapercave.com/mwp/wp2551832.jpg"},
@@ -838,7 +832,6 @@
         {"image":"https://wallpapercave.com/mwp/wp2551805.jpg"},
         
         {"image":"https://wallpapercave.com/mwp/wp2551811.jpg"}
-        
     ],
     "HD Wallpapers": [
 
@@ -932,8 +925,6 @@
         
         {"image":"https://wallpapercave.com/dwp2x/wp9623914.jpg"},
         
-        {"image":"https://wallpapercave.com/wp/wp8868661.jpg"}
-        
-        
+        {"image":"https://wallpapercave.com/wp/wp8868661.jpg"}   
     ]
 }
