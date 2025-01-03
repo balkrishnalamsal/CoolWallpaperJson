@@ -757,7 +757,7 @@
         
         {"image":"https://wallpapercave.com/wp/wp10819346.jpg"},
         
-        {"image":"https://wallpapercave.com/wp/wp10819393.jpg"},
+        {"image":"https://raw.githubusercontent.com/balkrishnalamsal/CoolWallpaperJson/main/ads.png"},
         
         {"image":"https://wallpapercave.com/wp/wp10819343.jpg"}
       
@@ -1143,7 +1143,72 @@
         {"image":"https://wallpapercave.com/dwp1x/wp2357513.jpg"},
         {"image":"https://wallpapercave.com/dwp1x/wp2357518.jpg"}
 
-    ]
+    ],
+
+    "AI cool wallpaper": [
+    { "image": "https://wallpapercave.com/wp/wp12238911.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238938.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238900.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238914.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238925.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238901.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12143257.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238918.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238920.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238942.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238932.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238941.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238929.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp12238893.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp9392210.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp9287560.jpg" },
+    { "image": "https://wallpapercave.com/wp/wp9287552.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238911.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238925.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238914.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp9287560.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238893.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238900.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp9287552.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238918.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238941.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238901.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12143257.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238932.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238942.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238929.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238920.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp12238938.jpg" },
+    { "image": "https://wallpapercave.com/dwp2x/wp9392210.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238911.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238925.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238893.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238914.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp9287560.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238920.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12143257.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238929.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238932.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp9287552.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238918.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238901.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238941.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238942.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238900.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp12238938.jpg" },
+    { "image": "https://wallpapercave.com/mwp/wp9392210.jpg" },
+    { "image": "https://wallpapercave.com/dwp1x/wp12238911.jpg" },
+    { "image": "https://wallpapercave.com/dwp1x/wp12238893.jpg" },
+    { "image": "https://wallpapercave.com/dwp1x/wp12238914.jpg" },
+    { "image": "https://wallpapercave.com/dwp1x/wp9287560.jpg" },
+    { "image": "https://wallpapercave.com/dwp1x/wp12238925.jpg" },
+    { "image": "https://wallpapercave.com/dwp1x/wp9287552.jpg" },
+    { "image": "https://raw.githubusercontent.com/balkrishnalamsal/CoolWallpaperJson/main/ads.png" },
+    { "image": "https://wallpapercave.com/dwp1x/wp12238942.jpg" },
+    { "image": "https://wallpapercave.com/dwp1x/wp12143257.jpg" },
+    { "image": "https://wallpapercave.com/dwp1x/wp12238901.jpg" },
+    { "image": "https://wallpapercave.com/dwp1x/wp12238929.jpg" }
+  ]
 
 
     
