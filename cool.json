@@ -1208,8 +1208,85 @@
     { "image": "https://wallpapercave.com/dwp1x/wp12143257.jpg" },
     { "image": "https://wallpapercave.com/dwp1x/wp12238901.jpg" },
     { "image": "https://wallpapercave.com/dwp1x/wp12238929.jpg" }
-  ]
+  ],
 
+    "Nature Wallpapers": [
+        {"image": "https://wallpapercave.com/wp/uddNF6T.jpg"},
+        {"image": "https://wallpapercave.com/wp/FP58cf7.jpg"},
+        {"image": "https://wallpapercave.com/wp/DsVl61l.jpg"},
+        {"image": "https://wallpapercave.com/wp/Ti6qoP7.jpg"},
+        {"image": "https://wallpapercave.com/wp/FLeE3R7.jpg"},
+        {"image": "https://wallpapercave.com/wp/hOtDVSJ.jpg"},
+        {"image": "https://wallpapercave.com/wp/toVVwNZ.jpg"},
+        {"image": "https://wallpapercave.com/wp/V1WoO2k.jpg"},
+        {"image": "https://wallpapercave.com/wp/ow7KuzS.jpg"},
+        {"image": "https://wallpapercave.com/wp/aKoDkRz.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/uddNF6T.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/toVVwNZ.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/Ti6qoP7.jpg"},
+        {"image": "https://wallpapercave.com/dwp1x/uddNF6T.jpg"},
+        {"image": "https://wallpapercave.com/dwp1x/toVVwNZ.jpg"}
+    ],
+    "Abstract/Artistic Wallpapers": [
+        {"image": "https://wallpapercave.com/wp/Szkefl3.jpg"},
+        {"image": "https://wallpapercave.com/wp/P4wNJbp.jpg"},
+        {"image": "https://wallpapercave.com/wp/z8PQJEZ.jpg"},
+        {"image": "https://wallpapercave.com/wp/vvdXaWC.jpg"},
+        {"image": "https://wallpapercave.com/wp/8MRV12S.jpg"},
+        {"image": "https://wallpapercave.com/wp/BOMZ8R8.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/Szkefl3.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/z8PQJEZ.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/8MRV12S.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/BOMZ8R8.jpg"},
+        {"image": "https://wallpapercave.com/mwp/8MRV12S.jpg"},
+        {"image": "https://wallpapercave.com/mwp/Szkefl3.jpg"},
+        {"image": "https://wallpapercave.com/mwp/z8PQJEZ.jpg"},
+        {"image": "https://wallpapercave.com/mwp/BOMZ8R8.jpg"}
+    ],
+    "Minimalist Wallpapers": [
+        {"image": "https://wallpapercave.com/wp/4ajceF7.jpg"},
+        {"image": "https://wallpapercave.com/wp/4E2tjrz.jpg"},
+        {"image": "https://wallpapercave.com/wp/SxpC3AZ.jpg"},
+        {"image": "https://wallpapercave.com/wp/PnzdkQR.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/SxpC3AZ.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/4ajceF7.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/4E2tjrz.jpg"},
+        {"image": "https://wallpapercave.com/mwp/SxpC3AZ.jpg"},
+        {"image": "https://wallpapercave.com/mwp/4ajceF7.jpg"},
+        {"image": "https://wallpapercave.com/mwp/4E2tjrz.jpg"}
+    ],
+    "Futuristic/Cityscape Wallpapers": [
+        {"image": "https://wallpapercave.com/wp/KhZ97HZ.jpg"},
+        {"image": "https://wallpapercave.com/wp/ZnIkMsG.jpg"},
+        {"image": "https://wallpapercave.com/wp/0cRxkel.jpg"},
+        {"image": "https://wallpapercave.com/wp/FEVYFKh.jpg"},
+        {"image": "https://wallpapercave.com/wp/FPfvV9v.jpg"},
+        {"image": "https://wallpapercave.com/wp/WXw4p97.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/KhZ97HZ.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/WXw4p97.jpg"},
+        {"image": "https://wallpapercave.com/mwp/KhZ97HZ.jpg"},
+        {"image": "https://wallpapercave.com/mwp/WXw4p97.jpg"}
+    ],
+    "Cool Fantasy/Concept Art": [
+        {"image": "https://wallpapercave.com/wp/AjVWyuQ.jpg"},
+        {"image": "https://wallpapercave.com/wp/gzpj3mC.jpg"},
+        {"image": "https://wallpapercave.com/wp/ZF2UXq2.jpg"},
+        {"image": "https://wallpapercave.com/wp/B0qdNsk.jpg"},
+        {"image": "https://wallpapercave.com/wp/hn5tGuL.jpg"},
+        {"image": "https://wallpapercave.com/wp/uA17Icg.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/AjVWyuQ.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/gzpj3mC.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/ZF2UXq2.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/B0qdNsk.jpg"},
+        {"image": "https://wallpapercave.com/dwp2x/uA17Icg.jpg"}
+    ],
+    "Miscellaneous": [
+        {"image": "https://wallpapercave.com/dwp2x/rSBrg7q.jpg"},
+        {"image": "https://wallpapercave.com/dwp1x/rSBrg7q.jpg"},
+        {"image": "https://wallpapercave.com/wp/rSBrg7q.jpg"},
+        {"image": "https://wallpapercave.com/dwp1x/FLeE3R7.jpg"},
+        {"image": "https://wallpapercave.com/mwp/FLeE3R7.jpg"}
+    ]
 
     
 }
